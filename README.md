@@ -1,2 +1,2 @@
-# ai_eng_project_01
-Project 01 Artificial Intelligence Sentiment Analysis
+# ai_eng_project_02
+Project 02 Artificial Intelligence Sentiment Analysis
